@@ -1,4 +1,3 @@
 # crx
 chrome plugin
 
-init
